@@ -23,29 +23,47 @@
   to { transform: rotate(360deg); }
 }
 
-.border{
-  border:5px solid black;
-  width:376px;
-  margin-top: 250px;
-  margin-left:700px; 
+.grid{
+  /* border: 5px solid gray; */
+  width: 400px;
+  margin-left : 700px;
+  margin-top: 300px;
 }
-.box {
-  background-color:white;
-  text-align: center;
-  width: 70px;
-  height: 40px;
-  border: 2px solid black;
-  padding: 10px;
-  font-size: 20px;
+.Box{
+  border:2px;
 
 }
-.boxs {
-  background-color: beige;
-  text-align: center;
-  width: 70px;
-  height: 40px;
-  border: 2px solid black;
-  padding: 10px;
-  font-size: 20px;
 
+
+/* .grid-line{
+  
+} */
+
+
+.grid-box{
+  background-color: #F1F1F1;
+  width: 100px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  
 }
+
+.grid-box input{
+  background-color: #F1F1F1;
+  width: 100px;
+  /* margin: 10px; */
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+
+.Box-row{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  font-size: 30px;
+}
+
+
