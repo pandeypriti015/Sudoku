@@ -1,17 +1,14 @@
-# puzzle_react
+# Sudoku
 
-Creating a repository for building suduko like game
+This is a simple sudoku game.
 
-install the prerequisities
+This game is built using only ReactJS.
 
-and start the project using npm start
+To play this game:
 
-it is the same like a normal suduko game
+git clone https://github.com/pandeypriti015/Sudoku.git
+Get into the folder type this in terminal:
 
-here we have fixed some values like a proper game.
+cd sudoku To play this game:
 
-the user has 3 chances to try
-
-for each try the color changes, once the max try count is reached it is blocked and the color is also changed.
-
-wrong attempts made by the user are also displayed.
+npm start I hope you like the game. This game was built in the sole purpose of understanding the concept of having multiple components.
