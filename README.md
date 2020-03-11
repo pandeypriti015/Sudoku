@@ -2,7 +2,7 @@
 
 This is a simple sudoku game.
 
-This game is built using only ReactJS.
+This game is game using only ReactJS.
 
 To play this game:
 
